@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+section{
+    height: 500px;
+    padding: 100px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+span {
+    color: rgb(23, 245, 123);
+    font-size: 20px;
+}
+span:hover{
+    color: rgb(1, 253, 253);
+}
+
+.first-section{
+    background:url("picture/background01.png") ;
+    background-repeat: no-repeat;
+}
+
+.first-section-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+button{
+    font-size: 15px;
+    color: rgb(251, 253, 247);
+    background-image: linear-gradient(35deg, rgb(25, 120, 230), rgb(2, 40, 253));
+    padding: 15px 25px;
+    border-radius: 20px;
+    margin-top: 30px;  
+}     
+
+.myimage{
+    max-width: 100%;
+}
+
+.myimage2{
+    max-width: 100%;
+}
+
+.secound-section{
+    background:url("picture/background02.png") ;
+    background-repeat: no-repeat;
+}
+.secound-section-div{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 102, 0);
+}
+.workimg{
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+    max-width: 100%;
+    padding-top: 20px ;
+}
+.third-section{
+    background:url("picture/background03.png") ;
+    background-repeat: no-repeat;
+}
+
+.four-section{
+    background:url("picture/background04.png") ;
+    background-repeat: no-repeat;
+}
+.about-client{
+    color: rgb(5, 5, 5);
+}
+
+h5{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.last-pera{
+    background-color: rgb(10, 133, 248);
+    padding: 30px;
+   text-align: center;
+   border-radius: 20px;
+   margin-top: 50px;
+}
+
+
+footer{
+    text-align: center;
+}
